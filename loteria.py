@@ -1,5 +1,4 @@
 """
-Ainda não sei pq não roda direto aqui no Solo Learn, se alguem souber, me avise!
 Rio 16/04/2017
 BO
 """
